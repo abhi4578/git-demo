@@ -1,3 +1,3 @@
 echo "started training"
-# add training login
+# add training code 
 echo "Finished training"
