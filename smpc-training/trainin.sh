@@ -1,4 +1,4 @@
 echo "started training"
-# add training login
+# add training code
 # how to direct training output to another file
 echo "Finished training"
